@@ -3,13 +3,13 @@
 This project is created to implement Regression Techniques for Predicting Life Expectancy using the dataset provided by WHO.
 
 ## Table of Contents
--[Installation](#installation)
--[Usage](#usage)
--[Dataset](#dataset)
--[Models](#models)
--[Results](#results)
--[Contributing](#contributing)
--[License](#license)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Dataset](#dataset)
+- [Models](#models)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Installation
 
